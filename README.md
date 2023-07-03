@@ -1,5 +1,8 @@
 <h1 align="center"> Sistema Banco E-Corp </h1>
-<img src="https://github.com/JoaoReis-code/React-Banco/assets/112270415/e38fb791-5461-4098-a3ee-ceef876b4f52" width='800' align='center'>
+<div align='center'>
+  <img src="https://github.com/JoaoReis-code/React-Banco/assets/112270415/e38fb791-5461-4098-a3ee-ceef876b4f52" width='800'>  
+</div>
+
 
 <h1 align="center">Descrição</h1>
 
